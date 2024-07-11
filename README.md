@@ -197,7 +197,7 @@ app.use("/api", cartRouter);
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,vscode,postman&theme=dark)](https://skillicons.dev)
 
 ## Contact
 
